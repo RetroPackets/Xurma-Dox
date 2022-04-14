@@ -1,4 +1,0 @@
-requests
-cloudscraper
-bs4
-colorama
